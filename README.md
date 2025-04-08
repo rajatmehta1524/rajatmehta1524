@@ -55,11 +55,11 @@ Currently exploring advanced Deep Learning architectures including **Vision Tran
 
 Here are a few pinned repositories worth checking out:
 
-- 🔹 [**Depth Map Generation using Lidar and Stereo Imagery**](https://github.com/rajatmehta1524/Depth-Map-Generation-using-Lidar-and-Stereo-Geometry)  
+-  [**Depth Map Generation using Lidar and Stereo Imagery**](https://github.com/rajatmehta1524/Depth-Map-Generation-using-Lidar-and-Stereo-Geometry)  
   Generating dense depth maps for Autonomous Vehicles using Lidar and Stereo Data
-- 🔹 [**Skin Cancer Classification**](https://github.com/yourusername/skin-cancer-classifier)  
+-  [**Skin Cancer Classification**](https://github.com/rajatmehta1524/Skin-Cancer-Classification)  
   Deep learning-based classification of benign vs malignant skin lesions using ConvNeXt and Vision Transformers (ViT).
-- 🔹 [**Camera Tracking**](https://github.com/rajatmehta1524/Camera-Tracking)  
+-  [**Camera Tracking**](https://github.com/rajatmehta1524/Camera-Tracking)  
   Camera Trajectory Estimation using Essential Matrix Decomposition
 
 <!-- - 🔹 [**Point Cloud Projection on RGB Image**](https://github.com/yourusername/Point-Cloud-Projection-on-RGB-Image)  
