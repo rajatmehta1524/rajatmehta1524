@@ -1,23 +1,23 @@
 <h1 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" /> Hey there, I'm [Your Name]
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" /> Hey there, I'm Rajat
 </h1>
 
 <p align="center">
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:rajatmehta1524@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://yourwebsite.com">
+  <a href="https://rajatmehta1524.github.io/Work_Portfolio/">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/yourlinkedin/">
+  <a href="https://www.linkedin.com/in/rajat-mehta2/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://drive.google.com/your-resume-link">
+  <!-- <a href="https://drive.google.com/your-resume-link">
     <img src="https://img.shields.io/badge/Resume-4CAF50?style=for-the-badge&logo=Google%20Drive&logoColor=white" />
-  </a>
-  <a href="https://scholar.google.com/your-scholar-id">
+  </a> -->
+  <!-- <a href="https://scholar.google.com/your-scholar-id">
     <img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=Google%20Scholar&logoColor=white" />
-  </a>
+  </a> -->
 </p>
 
 ---
@@ -27,11 +27,9 @@
 I'm a Machine Learning Engineer specializing in Computer Vision and Generative AI.  
 Currently exploring advanced Deep Learning architectures including **Vision Transformers**, **ConvNeXt**, and **GANs**.
 
-- 🎓 M.Tech/B.Tech in [Your Degree], [Your University]  
-- 🤖 Passionate about ML, CV, and real-world applications in robotics and healthcare  
+- 🎓 Master of Science in Robotics and Autonomous Systems, Northeastern University  
+- 🤖 Passionate about ML, CV, and real-world applications in Vision and Autonomy  
 - 🔬 Research experience in 3D reconstruction, SLAM, and multi-view geometry  
-- ✍️ Writing research reports in CVPR/ICCV format  
-- 🌍 Based in [Your Location]
 
 ---
 
@@ -39,8 +37,10 @@ Currently exploring advanced Deep Learning architectures including **Vision Tran
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras"/>
   <img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=opencv&logoColor=white" />
   <img src="https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white" />
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
@@ -69,12 +69,12 @@ Here are a few pinned repositories worth checking out:
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rajatmehta1524&show_icons=true&theme=radical" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajatmehta1524&layout=compact&theme=radical" height="165" />
 </p>
 
 ---
-
+<!-- 
 ## 🧩 Fun Facts
 
 - 🛠 Built ML pipelines on A5000 GPUs via JarvisLabs  
@@ -82,7 +82,7 @@ Here are a few pinned repositories worth checking out:
 - 🔍 Explored ViT, ConvNeXt, CNNs, and SLAM systems  
 - 🔄 Switched from theoretical ML to Generative AI quickly (and loving it!)
 
----
+--- -->
 
 ## 📫 Let’s Connect
 
