@@ -24,12 +24,12 @@
 
 ## 👨‍💻 About Me
 
-I'm a Machine Learning Engineer specializing in Computer Vision and Generative AI.  
-Currently exploring advanced Deep Learning architectures including **Vision Transformers**, **ConvNeXt**, and **GANs**.
+### I'm a Machine Learning Engineer specializing in Computer Vision and Generative AI.  
+### Currently exploring advanced Deep Learning architectures including **Vision Transformers**, **ConvNeXt**, and **GANs**.
 
-- 🎓 Master of Science in Robotics and Autonomous Systems, Northeastern University  
-- 🤖 Passionate about ML, CV, and real-world applications in Vision and Autonomy  
-- 🔬 Research experience in 3D reconstruction, SLAM, and multi-view geometry  
+### - 🎓 Master of Science in Robotics and Autonomous Systems, Northeastern University  
+### - 🤖 Passionate about ML, CV, and real-world applications in Vision and Autonomy  
+### - 🔬 Research experience in 3D reconstruction, SLAM, and multi-view geometry  
 
 ---
 
@@ -53,27 +53,30 @@ Currently exploring advanced Deep Learning architectures including **Vision Tran
 
 ## 🚀 Featured Projects
 
-Here are a few pinned repositories worth checking out:
+### Here are a few pinned repositories worth checking out:
 
-- 🔹 [**Point Cloud Projection on RGB Image**](https://github.com/yourusername/Point-Cloud-Projection-on-RGB-Image)  
+### - 🔹 [**Depth Map Generation using Lidar and Stereo Imagery**](https://github.com/rajatmehta1524/Depth-Map-Generation-using-Lidar-and-Stereo-Geometry)  
+###  Generating dense depth maps for Autonomous Vehicles using Lidar and Stereo Data
+### - 🔹 [**Skin Cancer Classification**](https://github.com/yourusername/skin-cancer-classifier)  
+###  Deep learning-based classification of benign vs malignant skin lesions using ConvNeXt and Vision Transformers (ViT).
+### - 🔹 [**Camera Tracking**](https://github.com/rajatmehta1524/Camera-Tracking)  
+###  Camera Trajectory Estimation using Essential Matrix Decomposition
+
+<!-- - 🔹 [**Point Cloud Projection on RGB Image**](https://github.com/yourusername/Point-Cloud-Projection-on-RGB-Image)  
   A geometry-aware tool for mapping 3D LiDAR point clouds onto 2D RGB images.
 
 - 🔹 [**PyTorch Codes**](https://github.com/yourusername/Pytorch-Codes)  
-  A collection of notebooks demonstrating core PyTorch concepts including backprop, training loops, and custom architectures.
-
-- 🔹 [**Skin Cancer Classification**](https://github.com/yourusername/skin-cancer-classifier)  
-  Deep learning-based classification of benign vs malignant skin lesions using ConvNeXt and ViT.
-
+  A collection of notebooks demonstrating core PyTorch concepts including backprop, training loops, and custom architectures. -->
 ---
 
-## 📈 GitHub Stats
+<!-- ## 📈 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rajatmehta1524&show_icons=true&theme=radical" height="165" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajatmehta1524&layout=compact&theme=radical" height="165" />
 </p>
 
----
+--- -->
 <!-- 
 ## 🧩 Fun Facts
 
@@ -86,8 +89,8 @@ Here are a few pinned repositories worth checking out:
 
 ## 📫 Let’s Connect
 
-I’m always up for collaboration or mentorship. Drop a message if you’re interested in:
+### I’m always up for collaboration or mentorship. Drop a message if you’re interested in:
 
-- 🤝 Research projects
-- 📈 Model evaluation challenges
-- 🎥 Generative AI for images and video
+### - 🤝 Research projects
+### - 📈 Model evaluation challenges
+### - 🎥 Generative AI for images and video
